@@ -24,8 +24,8 @@ permalink: /
 
 **The game created from おいし水 & きょむけん.**
 
-> 引用
->> 多重引用
+> フリーゲームなのにこのクオリティ！！！
+>> 夜にすると孤独が和らぎます
 
 
 ![image](/KITHUB.YY_WebSite/assets/images/box.png)
