@@ -21,11 +21,11 @@ permalink: /
 ### ファミレスに迷い込んだあなたは
 #### ーー果たして脱出することができるのか
 ##### ドリンクバーもあるよ
-###### 
+###### まちがいさがしもあるよ
 
 [遊ぶのはこちらから](https://oissisui.itch.io/moonpalace)
 
-**The game created from おいし水&きょむけん**
+**The game created from おいし水 & きょむけん.**
 
 > 引用
 >> 多重引用
@@ -49,4 +49,4 @@ permalink: /
 | 内容  | 内容  |
 
 ![image](/KITHUB.YY_WebSite/assets/images/box.png)
-![image](/KITHUB.YY_WebSite/assets/images/box.png)
+![image](/KITHUB.YY_WebSite/assets/images/hand.png)
