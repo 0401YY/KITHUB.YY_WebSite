@@ -11,9 +11,6 @@ permalink: /
 
 ---
 
-以下テンプレート
-
-
 
 # ファミレスを享受せよ
 
@@ -30,23 +27,6 @@ permalink: /
 > 引用
 >> 多重引用
 
-
-- 箇条書きリスト
-  - ネスト
-    - さらにネスト
-
-
-1. 番号付きリスト
-   1. ネスト
-      1. さらにネスト
-     
-      2. 
-
-
-| 列1  | 列2  |
-|-----|-----|
-| 内容  | 内容  |
-| 内容  | 内容  |
 
 ![image](/KITHUB.YY_WebSite/assets/images/box.png)
 ![image](/KITHUB.YY_WebSite/assets/images/hand.png)
