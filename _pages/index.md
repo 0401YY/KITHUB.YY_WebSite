@@ -25,7 +25,7 @@ permalink: /
 
 [遊ぶのはこちらから](https://oissisui.itch.io/moonpalace)
 
-**おいし水**
+**The game created from おいし水&きょむけん**
 
 > 引用
 >> 多重引用
@@ -48,4 +48,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/KITHUB.YY_WebSite/assets/images/logo-150.png)
