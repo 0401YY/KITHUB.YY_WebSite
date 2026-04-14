@@ -1,6 +1,6 @@
 default:
   name: "YUI YAMAGUCHI"
-  avatar: "/assets/images/icons/default.png"
+  avatar: "/assets/images/icons/moon.png"
   bio: "月が大好きな人"
   links:
     - label: "Twitter"
